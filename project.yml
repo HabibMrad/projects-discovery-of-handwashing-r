@@ -16,7 +16,7 @@ runtime_config : heavy
 state          : live
 technology: 1
 instructors:
-  - rasmus@datacamp.com
+  - rasmus.baath@gmail.com
 collaborators: []
 prerequisites:
   - 4914
