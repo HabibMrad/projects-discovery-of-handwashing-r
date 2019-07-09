@@ -11,7 +11,7 @@ long_description: |
   simple plots using `ggplot2`. You can learn these skills in the course 
   [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse).
 language       : r
-from           : 'r-notebooks-tidyverse-prod:v1.0.0'
+from           : 'r-notebooks-prod:v2.0.0'
 runtime_config : heavy
 state          : live
 technology: 1
