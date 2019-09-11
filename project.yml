@@ -31,7 +31,7 @@ topics: # DataCamp fills out
 #### This will be updated by your DataCamp contact.              ####
 language       : r # One of r, python or sql
 # The name of the docker image used to run the course
-from           : 'r-notebooks-tidyverse:v1.0.0'
+from           : 'r-notebooks-prod:v2.0.0'
 runtime_config : default # default/heavy . Set to heavy for more resource intensive projects.
 
 
