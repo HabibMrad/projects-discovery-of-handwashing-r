@@ -12,7 +12,7 @@ long_description: |
   This project assumes you can manipulate data frames using `dplyr` and make
   simple plots using `ggplot2`. You can learn these skills in the course 
   [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse).
-
+  
 #### Metadata regarding course requirements and topics ####
 #### This will be updated by your DataCamp contact     ####
 technology: 1 # 1 == R, 2 == python, 3 == sql # Automatically set
@@ -33,5 +33,3 @@ language       : r # One of r, python or sql
 # The name of the docker image used to run the course
 from           : 'r-notebooks-prod:v2.0.0'
 runtime_config : default # default/heavy . Set to heavy for more resource intensive projects.
-
-
